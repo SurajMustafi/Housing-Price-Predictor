@@ -1,0 +1,15 @@
+Model Outputs:
+
+Desicion Tree Model:-
+Mean : 4.350109396589006
+Standard Deviation : 1.0599407800534104
+
+Linear Regression Model:-
+Mean : 5.037482786117751
+Standard Deviation : 1.0594382405606952
+
+Random Forest Regressor:
+Mean : 3.3773954128368544
+Standard Deviation : 0.7733127313122099
+
+So, Random Forest is the most accurate model and We'll use it .
